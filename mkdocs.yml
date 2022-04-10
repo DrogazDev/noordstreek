@@ -1,2 +1,6 @@
 # Project information
 site_name: Noordstreek Roleplay
+
+theme:
+  palette:
+    scheme: default
