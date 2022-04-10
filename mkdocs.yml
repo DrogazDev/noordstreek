@@ -1,5 +1,9 @@
 # Project information
 site_name: Noordstreek Roleplay
+site_author: Drogaz#6521
+
+repo_url: 'https://github.com/DrogazDev/noordstreek'
+repo_name: 'DrogazDev/noordstreek'
 
 theme:
   name: material
