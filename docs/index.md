@@ -1,4 +1,4 @@
-# Wet- en Regelgeving Tedeapolis
+# Wet- en Regelgeving Noordstreek
 
 Welkom op de pagina voor de Wet- en Regelgeving van Tedeapolis!
 In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Tedeapolis.
