@@ -1,0 +1,54 @@
+# Project information
+site_name: Noordstreek Roleplay
+
+# Google Analytic
+
+# Congiguration
+theme:
+  name: material
+#   features:
+#     - navigation.tabs
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  favicon: img/logoTedeapolis.png
+  logo: img/logoTedeapolis.png
+  custom_dir: docs/overrides
+  language: nl
+plugins:
+  - git-revision-date-localized:
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+  - search:
+      lang: nl
+markdown_extensions:
+  - admonition
+  - attr_list
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
+  - Risicogebieden: risico-gebieden.md
+  - Douanegebieden: douanegebieden.md
+  - NOTAM: notam.md
+  - Belastingen: belastingen.md
+  - Regelement voor de rechtspraak: rechtspraak.md
+  - Streamen op Tedeapolis: streamen.md
+  - Offroad Voertuigen: offroadvoertuigen.md
+  - Kosten:
+    - Advocatuur: kosten/advocatuur.md
+    - Ambulance: kosten/ambulance.md
+    - ANWB: kosten/anwb.md
+    - Politie: kosten/politie.md
+    - Vliegschool: kosten/vliegschool.md
